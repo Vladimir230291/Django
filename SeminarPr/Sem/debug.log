@@ -1,0 +1,16 @@
+2023-09-30 12:09:53,313 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-30 12:10:03,276 random_choise_app.views INFO     random_choise_app_one
+2023-09-30 12:10:56,036 random_choise_app.views INFO     random_choise_app_one
+2023-09-30 12:10:56,692 django.utils.autoreload INFO     C:\Users\User\PycharmProjects\DjangoGB\SeminarPr\Sem\random_choise_app\views.py changed, reloading.
+2023-09-30 12:10:57,194 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-09-30 12:10:58,503 random_choise_app.views DEBUG    random_choise_app_one
+2023-09-30 12:11:00,395 random_choise_app.views DEBUG    random_choise_app_one
+2023-09-30 12:14:58,353 django.utils.autoreload INFO     C:\Users\User\PycharmProjects\DjangoGB\SeminarPr\Sem\Sem\settings.py changed, reloading.
+2023-09-30 12:15:03,222 random_choise_app.views DEBUG    random_choise_app_one
+2023-09-30 12:18:46,377 random_choise_app.views INFO     random_choise_app_one
+2023-09-30 12:21:10,929 random_choise_app.views INFO     random_choise_app_one
+2023-09-30 12:21:36,397 random_choise_app.views INFO     random_choise_app_two
+2023-09-30 12:56:06,711 hometask_app INFO     старницу посетили: /hometask/about/
+2023-09-30 12:56:11,321 hometask_app INFO     старницу посетили: /hometask/about/
+2023-09-30 12:56:49,119 hometask_app INFO     Page was visited: /hometask/about/
+2023-09-30 12:56:54,912 hometask_app INFO     Page was visited: /hometask/
